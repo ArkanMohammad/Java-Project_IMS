@@ -8,4 +8,5 @@ In this project:<br />
 • Implementation of a logger mechanism for every action that the user performs.<br />
 • The software configurations had to be read from an external json input file.<br />
 <br />
-Project contents: Java, JavaFx, MySQL. <br />
+Project contents: Java, JavaFx, JSON file. <br />
+Development Environment: IntelliJ, SceneBuilder. <br />
