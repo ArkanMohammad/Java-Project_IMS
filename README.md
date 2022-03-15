@@ -1,4 +1,5 @@
-# Java-Project_Managing-An-Insurance-Company called IMS
+# Java-Project_IMS
+IMS - Insurance Management System <br />
 Modeling and development of software for managing an insurance company.<br />
 The company provides its customers with car, apartment, life, and disability insurance policies.<br />
 The software should manage the sales array, and customer service (customer claims).<br />
