@@ -12,6 +12,6 @@ In this project:<br />
 Project contents: Java, JavaFx, JSON file. <br />
 Development Environment: IntelliJ, SceneBuilder. <br />
 
-<img src="IMS company.png" alt="drawing" width="300"/>
+<img src="IMS company.png" alt="drawing" width="500"/>
 
 Read instructions.docs for more info.
